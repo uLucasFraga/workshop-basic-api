@@ -25,7 +25,7 @@ Com isso, aprendermos e evoluirmos no conhecimento sobre testes de API.
 - Os testes são feitos após subirmos o servidor do **serverest**: `npx serverest -t 10000`
 
 > Dica:
-- o parâmetro `-t`, conforme documentação do serverest, significa `--timeout <duracao-do-token-em-segundos>`.
+- o parâmetro `-t`, conforme documentação, significa `--timeout <duracao-do-token-em-segundos>`.
 
 utilizamos esse número alto para não termos possíveis problemas de tokens sendo expirados.
 
